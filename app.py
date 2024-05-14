@@ -38,7 +38,7 @@ def display_prompt(df):
     else:
         return ""
  
-genai.configure(api_key='AIzaSyBXJ4zHkZLEdEmAIt3kLP2ifHbJWUMjl5I')
+genai.configure(api_key='Your api key')
  
 # Initialize Gemini model
 model_name = "gemini-pro"
